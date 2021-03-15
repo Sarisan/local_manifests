@@ -2,7 +2,7 @@
 <manifest>
 
     <!-- Device trees -->
-    <project name="Sarisan/pe_device_xiaomi_ginkgo" path="device/xiaomi/ginkgo" remote="github" revision="eleven" />
+    <project name="Sarisan/pe_device_xiaomi_ginkgo" path="device/xiaomi/ginkgo" remote="github" revision="eleven-plus" />
 
     <!-- Vendor trees -->
     <project name="Sarisan/havoc_vendor_xiaomi_ginkgo" path="vendor/xiaomi/ginkgo" remote="github" revision="eleven" />
